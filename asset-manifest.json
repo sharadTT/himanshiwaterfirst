@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/himanshiwaterfirst/static/css/main.c94f6fec.css",
+    "main.js": "/himanshiwaterfirst/static/js/main.3ec46351.js",
+    "static/media/meal.mp4": "/himanshiwaterfirst/static/media/meal.d3f992aaa60a253f34ac.mp4",
+    "static/media/bg.png": "/himanshiwaterfirst/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/gallery02.jpg": "/himanshiwaterfirst/static/media/gallery02.08201b5179f41db9fb03.jpg",
+    "static/media/laurels.jpg": "/himanshiwaterfirst/static/media/laurels.5f030c21257148681b88.jpg",
+    "static/media/welcome.jpg": "/himanshiwaterfirst/static/media/welcome.042bfa2afb77e9e10d4a.jpg",
+    "static/media/gallery04.jpg": "/himanshiwaterfirst/static/media/gallery04.5d845f1c4b7eb7322af3.jpg",
+    "static/media/gallery03.jpg": "/himanshiwaterfirst/static/media/gallery03.826238c460a4d747e06b.jpg",
+    "static/media/gallery01.jpg": "/himanshiwaterfirst/static/media/gallery01.bdee9e2fdac1dab4e3d6.jpg",
+    "static/media/knife.png": "/himanshiwaterfirst/static/media/knife.8af1a8eaf0dd0206acaa.png",
+    "static/media/overlaybg.png": "/himanshiwaterfirst/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/menu.png": "/himanshiwaterfirst/static/media/menu.7e179ab26d6d70303cd9.png",
+    "static/media/G.png": "/himanshiwaterfirst/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/himanshiwaterfirst/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/gericht.svg": "/himanshiwaterfirst/static/media/gericht.ec9a4908d321f0c02e41446e16fe544d.svg",
+    "static/media/award.png": "/himanshiwaterfirst/static/media/award.361a4bc44b59b55abeda.png",
+    "static/media/sign.png": "/himanshiwaterfirst/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/himanshiwaterfirst/index.html",
+    "static/media/spoon.svg": "/himanshiwaterfirst/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.c94f6fec.css.map": "/himanshiwaterfirst/static/css/main.c94f6fec.css.map",
+    "main.3ec46351.js.map": "/himanshiwaterfirst/static/js/main.3ec46351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94f6fec.css",
+    "static/js/main.3ec46351.js"
+  ]
+}
